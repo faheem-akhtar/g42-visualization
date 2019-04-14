@@ -9,7 +9,9 @@ A technical challenge to draw different graph based on FRED API.
 
 ## How to setup
 
-You can use either `npm` or `yarn`
+First make sure you clone this repo or download it. Once done just go into the newly created direcotry.
+
+Note: You can use either `npm` or `yarn`
 
 ### `cp .env.example .env`
 
